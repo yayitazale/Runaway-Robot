@@ -1,0 +1,21 @@
+Materiales necesarios:
+
+Piezas imprimibles (http://www.thingiverse.com/thing:524211)
+------------------
+
+	- Chasis
+	- Rueda (x2)
+	- Stand para arduino
+
+Vitaminas
+-----------------
+
+	- Servomotor de rotación contínua (x2) 
+	- Sensor de ultrasonidos HC-SR04 (x2)
+	- Nano breadboard
+	- Cables para breadboard macho-macho (4 pares)
+	- Cables para breadboard macho-hembra (4 pares)
+	- Arduino
+	- Tornillo M3 50mm (x3)
+	- Tornillo M3 15mm (x8)
+	- Tuerca M3 (x11)
